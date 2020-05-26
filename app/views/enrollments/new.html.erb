@@ -1,5 +1,6 @@
 <h1>Test</h1>
 
-<%= simple_form_for [@user, @enrollment] do |f| %>
-    <%= t.input :start_date %>
+<%= simple_form_for [@course, @enrollment] do |f| %>
+  <%= f.input :start_date %>
+  <%= f.button :submit %>
 <% end %>

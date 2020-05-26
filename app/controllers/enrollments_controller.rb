@@ -21,6 +21,7 @@ class EnrollmentsController < ApplicationController
     @enrollment.user = user
     authorize @course
     authorize @enrollment
+    raise
     if @enrollment.save
       redirect_to enrollments_path
     else
