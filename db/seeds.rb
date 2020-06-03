@@ -210,7 +210,7 @@ puts 'Creating courses...'
   description: "Learn Spanish in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
@@ -220,7 +220,7 @@ puts 'Creating courses...'
   description: "Learn Japanese in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
@@ -230,7 +230,7 @@ puts 'Creating courses...'
   description: "Learn Korean in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
@@ -241,7 +241,7 @@ puts 'Creating courses...'
   description: "Learn German in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
@@ -251,7 +251,7 @@ puts 'Creating courses...'
   description: "Learn Ukrainian in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
@@ -262,7 +262,7 @@ puts 'Creating courses...'
   description: "Learn Italian in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
@@ -273,7 +273,7 @@ puts 'Creating courses...'
   description: "Learn French in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
@@ -284,7 +284,7 @@ puts 'Creating courses...'
   description: "Learn Portuguese in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
@@ -294,7 +294,7 @@ puts 'Creating courses...'
   description: "Learn Portuguese in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
@@ -304,7 +304,7 @@ puts 'Creating courses...'
   description: "Learn Esperanto in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
@@ -315,7 +315,7 @@ puts 'Creating courses...'
   description: "Learn Chinese in just 5 minutes a day. For free.",
   rating: nil,
   difficulty: nil,
-  expected_time_to_complete: Not Applicable,
+  expected_time_to_complete: 'Not Applicable',
   platform_id: @duolingo.id
 )
 
